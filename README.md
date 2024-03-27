@@ -1,7 +1,7 @@
 # Welcome to jdbpt 😄
 
 ## Joy Drive Balance Persistance and Tranquility (jdbpt)
-
+![Beautiful picture of the sky adorned in peach, lavendar, magenta, and goal tinted clouds](./bgrimglogo.jpg)
 ## ABOUT ME
 
 My name is Jocelyn and I am:
