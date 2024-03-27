@@ -11,7 +11,7 @@ My name is Jocelyn and I am:
 - Creativity is my driving motivation behind all my projects!
 - The goal is jdbpt, everything in life comes with balance.
 
-## LINKS
+### LINKS
 
 [itch.io page for JoceDap](https://jocedap.itch.io/)
 <!--
