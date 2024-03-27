@@ -1,5 +1,19 @@
-### Hi there 👋
+### Welcome to jdbpt 😄
 
+## Joy Drive Balance Persistance and Tranquility (jdbpt)
+
+## ABOUT ME
+
+My name is Jocelyn and I am:
+- 🌱 I’m currently learning Java and data structures and algorithms
+- 🔭 I’m currently working on revising my resume and building a portfolio (a constant goal)
+- ⚡ Fun fact: I was drawn to Computer Science through majoring in Game Development
+- Creativity is my driving motivation behind all my projects!
+- The goal is jdbpt, everything in life comes with balance.
+
+## LINKS
+
+[itch.io page for JoceDap](https://jocedap.itch.io/)
 <!--
 **jdbpt/jdbpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
