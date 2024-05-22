@@ -9,7 +9,7 @@ My name is Jocelyn and:
 - 🌱 I’m currently learning: Java and data structures and algorithms
 - 🔭 I’m currently working on: revising my resume and building a portfolio (a constant goal)
 - ⚡ Fun fact: I was drawn to Computer Science through majoring in Game Development
-- Creativity is my driving motivation behind all my projects!
+- Creativity is the driving motivation behind all my projects!
 - The goal is jdbpt, everything in life comes with balance.
 
 ### LINKS
